@@ -42,8 +42,3 @@ st.altair_chart(alt.Chart(df, height=700, width=700)
     ))
 '''
 
-'''
-To:
-From:
-Subject:
-'''
